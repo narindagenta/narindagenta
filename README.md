@@ -1,14 +1,15 @@
 ### Hi! 👋 I'm Narinda.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+<!--- An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service. --->
 
 - 🔭 I’m currently studying on <a href="https://www.idu.ac.id/">@universitaspertahanan</a>
 - 🌱 I’m currently learning about machine learning and technopreneurship
 - 💬 Feel free to ask me about technopreneruship
 - ⚡ Fun fact: Beginner
 
+<!---
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -18,6 +19,8 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <br>
   <br>
   
+---> 
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/narindagenta">
