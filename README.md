@@ -3,11 +3,11 @@
 <!--- An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
 I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service. --->
-
+<!---
 - 🔭 I’m currently studying on <a href="https://www.idu.ac.id/">@universitaspertahanan</a>
 - 🌱 I’m currently learning about machine learning and technopreneurship
-- 💬 Feel free to ask me about technopreneruship
-- ⚡ Fun fact: Beginner
+- 💬 Feel free to ask me about technopreneruship ---> 
+<!---- ⚡ Fun fact: Beginner ---> 
 
 <!---
 ### Tech Stack
