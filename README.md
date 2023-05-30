@@ -19,8 +19,6 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <br>
   <br>
   
----> 
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/narindagenta">
@@ -28,6 +26,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+---> 
 
 ### Reach me on
 - <a href="https://linkedin.com/in/narindagenta/">LinkedIn</a>
